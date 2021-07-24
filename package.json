@@ -1,0 +1,11 @@
+{
+  "name": "create-app",
+  "version": "1.0.0",
+  "bin": {
+    "CreateApp": "bin/cli.js"
+  },
+  "keywords": [
+    "cli",
+    "CreateApp"
+  ]
+}
