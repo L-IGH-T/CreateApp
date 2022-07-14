@@ -75,8 +75,8 @@ async function main() {
     console.log(error);
   }
 }
-main();
 
+main();
 
 async function postProcess(){
   try {
