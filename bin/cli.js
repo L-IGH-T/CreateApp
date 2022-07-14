@@ -89,7 +89,6 @@ async function postProcess(){
         let folderName = db || "backend";
         if(!fs.existsSync(folderName))
         {
-
           git_repo = "https://github.com/L-IGH-T/backend.git";
           console.log('');
           console.log('     \x1b[34mDownloading backend...\x1b[0m');
